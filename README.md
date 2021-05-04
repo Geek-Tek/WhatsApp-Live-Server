@@ -5,7 +5,7 @@ Live chats are a lot more interesting and engaging, it's a new way of communicat
 
 ## Worth note:
 This is the WhatsApp Live Chrome extension's server. If you want to see or change the extension-side code you can go [here](https://github.com/Geek-Tek/WhatsApp-Live).  
-The actual Chrome extension can be founded on the [Chrome WebStore](https://chrome.google.com/webstore/detail/whatsapp-live/ohcpfmdkhhcfhcigeigigpmlngohloea)
+The actual Chrome extension can be founded on the [Chrome WebStore](https://chrome.google.com/webstore/detail/whatsapp-live/ohcpfmdkhhcfhcigeigigpmlngohloea).
 
 ## About the project
 - `server.js` does basically all the backend in the server
