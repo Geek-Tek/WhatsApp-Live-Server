@@ -10,9 +10,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "create-file": "^1.0.1",
     "express": "^4.17.1",
-    "socket.io": "^4.0.1"
+    "socket.io": "^4.1.2"
   },
   "engines": {
     "node": "12.x"
