@@ -4,7 +4,7 @@ let lastReport = 1
 
 
 var app = express()
-var server = app.listen(3000)
+var server = app.listen(process.env.PORT || 3000)
 
 app.use('/', express.static(__dirname + '/public'))
 app.use('/tutorial', express.static(__dirname + '/tutorial'))
