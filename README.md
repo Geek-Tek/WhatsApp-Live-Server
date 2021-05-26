@@ -13,7 +13,7 @@ The actual Chrome extension can be founded on the [Chrome WebStore](https://chro
 - `public/` is the folder with the website for [supporting the project](https://whatsapp-live.glitch.me/)
 - `tutorial/` is the folder with the [tutorial website](https://whatsapp-live.glitch.me/tutorial/)
 
-Made on [Glitch](https://glitch.com/)
+Made on [Heroku](https://www.heroku.com)
 
 ## Additional info:
 This extension was made in only a month by a 17 years old solo programmer without any previous knowledge of NodeJS, Express, Socket.io, GitHub or even Chrome extensions programming.
